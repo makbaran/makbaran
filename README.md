@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Mahhan Akbaran you can call me Mahhan.
 
-<!--
-**mahhanakbaran/mahhanakbaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials:
+<a href="http://www.twitter.com/mahhanakbaran"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter" width="35px"/></a>
+<a href="https://www.linkedin.com/in/mahhan-akbaran/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="35px"/></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+I am a beginner software developer studing at Francis Tuttle.
+
+
+- 🔭 I’m currently working on a personal portfolio website
+- 🌱 I’m currently learning C#, and Rust
+
+
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
