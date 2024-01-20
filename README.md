@@ -10,7 +10,7 @@ I am a beginner software developer studing at Francis Tuttle.
 
 
 - 🔭 I’m currently working on a personal portfolio website
-- 🌱 I’m currently learning SQL, Gdot Engine, and C++.
+- 🌱 I’m currently learning SQL, Godot Engine, and C++.
 
 
 
