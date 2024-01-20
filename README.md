@@ -6,7 +6,7 @@
 
 
 ## About Me:
-I am a beginner software developer studing at Francis Tuttle.
+I am a software developer studing Programming and Software Development at Francis Tuttle.
 
 
 - 🔭 I’m currently working on a personal portfolio website
