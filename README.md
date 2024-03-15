@@ -10,7 +10,7 @@ I am a software developer studying Programming and Software Development at Franc
 
 
 - 🔭 I’m currently working on a personal portfolio website
-- 🌱 I’m currently learning SQL, Godot Engine, and C++.
+- 🌱 I’m currently learning C++, and Web Development.
 
 
 
