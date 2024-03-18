@@ -12,6 +12,6 @@ I am a software developer studying Programming and Software Development at Franc
 - 🔭 I’m currently working on a personal portfolio website
 - 🌱 I’m currently learning C++, and Web Development.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mahhanakbaran?theme=unicorn&font=Anek%20Devanagari)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
