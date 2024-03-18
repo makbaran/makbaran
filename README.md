@@ -12,6 +12,6 @@ I am a software developer studying Programming and Software Development at Franc
 - 🔭 I’m currently working on a personal portfolio website
 - 🌱 I’m currently learning C++, and Web Development.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mahhanakbaran)](https://leetcode.com/mahhanakbaran?theme=unicorn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mahhanakbaran)](https://leetcode.com/mahhanakbaran?theme=wtf)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
