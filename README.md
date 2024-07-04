@@ -5,7 +5,7 @@
 I am a software developer currently a student at the University of Central Oklahoma studying Computer Science & Business.
 
 - 🔭 I’m currently working on a personal portfolio website
-- 🌱 I’m currently learning C++, and Web Development.
+- 🌱 I’m currently learning C++, Rust, and Web Development.
 
 ## Socials:
 <a href="http://www.twitter.com/mahhanakbaran"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter" width="35px"/></a>
