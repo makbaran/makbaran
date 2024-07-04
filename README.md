@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mahhan Akbaran, but you can call me Mahhan.
+### Hi there 👋, I'm Mahhan.
 
 ## Socials:
 <a href="http://www.twitter.com/mahhanakbaran"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter" width="35px"/></a>
