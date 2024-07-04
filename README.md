@@ -6,7 +6,7 @@
 
 
 ## About Me:
-I am a aspiring software developer graduate from Francis Tuttle and currently a student at the University of Central Oklahoma studying Computer Science & Business.
+I am a software developer currently a student at the University of Central Oklahoma studying Computer Science & Business.
 
 
 - 🔭 I’m currently working on a personal portfolio website
