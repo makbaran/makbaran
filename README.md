@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mahhan.
 
 ## About Me:
-I am a undergrad student at the University of Central Oklahoma studying Computer Science and Business. 
+I am a undergrad student at the University of Central Oklahoma studying Computer Science. 
 - I am currently working on my personal protfolio website.
 ## Skills:
 
