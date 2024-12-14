@@ -6,7 +6,7 @@ I am a undergrad student at the University of Central Oklahoma studying Computer
 ## Skills:
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=py,c,cpp,cs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,py)](https://skillicons.dev)
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=godot,dotnet)](https://skillicons.dev)
 <img src="https://github.com/B-Pence/skill-icons/blob/main/icons/MySQL-Dark.svg" width=48> 
