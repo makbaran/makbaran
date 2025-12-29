@@ -8,7 +8,7 @@ I am a undergrad student at the University of Central Oklahoma studying Computer
 ### Languages:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,matlab)
 ### Tools:
-![Tools](https://skillicons.dev/icons?i=godot,dotnet)]
+![Tools](https://skillicons.dev/icons?i=godot,dotnet)
 <img src="https://github.com/B-Pence/skill-icons/blob/main/icons/MySQL-Dark.svg" width=48> 
 ## Socials:
 <!-- [![Socials](https://skillicons.dev/icons?i=linkedin,twitter,instgram)](https://skillicons.dev) -->
