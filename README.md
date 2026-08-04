@@ -2,7 +2,7 @@
 
 ## About Me:
 I am a undergrad student at the University of Central Oklahoma studying Computer Engineering. 
-- I am currently working on my personal protfolio website.
+- Currently co-developing a unique video game project @Whalefall-Software.
 ## Skills:
 
 ### Languages:
