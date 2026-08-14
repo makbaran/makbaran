@@ -18,5 +18,5 @@ I am a student at the University of Central Oklahoma studying Computer Engineeri
 
 ## Github Stats:
 <!--- ![LeetCode Stats](https://leetcard.jacoblin.cool/mahhanakbaran?theme=unicorn&font=Anek%20Devanagari) --->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
