@@ -2,6 +2,8 @@
 I am a student at the University of Central Oklahoma studying Computer Engineering. 
 - Currently co-developing a unique video game project [@Whalefall-Software](https://github.com/Whalefall-Software).
 
+“Your time is limited, so don’t waste it living someone else’s life.” - Steve Jobs
+
 ## Skills:
 ### Languages:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,matlab,html,css,bash)
