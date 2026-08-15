@@ -4,14 +4,14 @@
   "backgroundColor": "none",
   "foregroundColor": "#ffffff",
   "strongColor": "#ffffff",
-  "weakColor": "gray",
+  "weakColor": "white",
   "radarColor": "#47a042",
   "growingAnimation": true,
   "contribPatterns": [
     {
       "top": {
         "backgroundColor": "#ffffff",
-        "foregroundColor": "#ffffff",
+        "foregroundColor": "#AAAAAA",
         "width": 32,
         "bitmap": [
           "0x00000000",
