@@ -1,10 +1,8 @@
-### Hi there 👋, I'm Mahhan.
-
 ## About Me:
 I am a student at the University of Central Oklahoma studying Computer Engineering. 
 - Currently co-developing a unique video game project [@Whalefall-Software](https://github.com/Whalefall-Software).
-## Skills:
 
+## Skills:
 ### Languages:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,matlab,html,css,bash)
 ### Tools:
