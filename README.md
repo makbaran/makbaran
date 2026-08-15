@@ -6,7 +6,7 @@ I am a student at the University of Central Oklahoma studying Computer Engineeri
 ## Skills:
 
 ### Languages:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,matlab,html,css)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,python,matlab,html,css,bash)
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=unity,godot,git,github,docker,cloudflare,dotnet,mysql,linux,bsd)
 
