@@ -6,8 +6,17 @@
   "strongColor": "#ffffff",
   "weakColor": "white",
   "radarColor": "#47a042",
-  "growingAnimation": true,
-  "contribPatterns": [
+  "saturation": "50%",
+  "contribLightness": [
+    "20%",
+    "30%",
+    "35%",
+    "40%",
+    "50%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
+}
     {
       "top": {
         "backgroundColor": "#000000",
