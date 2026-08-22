@@ -16,5 +16,5 @@ I am a student at the University of Central Oklahoma studying Computer Engineeri
 
 ## Github Stats:
 
-![](profile-3d-contrib/profile-custom-gitblock.svg)
+![](profile-3d-contrib/profile-night-rainbow.svg)
 
