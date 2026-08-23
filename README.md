@@ -18,5 +18,4 @@ I am a student at the University of Central Oklahoma studying Computer Engineeri
 
 ![](profile-3d-contrib/profile-custom-gitblock.svg)
 
-![](https://github-stats-terminal-style-five.vercel.app/api/stats?makbaran&theme=gruvbox)
-
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?makbaran&theme=gruvbox)](https://github.com/makbaran)
