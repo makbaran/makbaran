@@ -7,6 +7,17 @@
   "weakColor": "#908caa",
   "radarColor": "#ebbcba",
   "growingAnimation": true,
+  "languages": {
+    "count": 6,
+    "colors": [
+      "#eb6f92",
+      "#f6c177",
+      "#ebbcba",
+      "#31748f",
+      "#9ccfd8",
+      "#c4a7e7"
+    ]
+  },
   "contribPatterns": [
     {
       "top": {
