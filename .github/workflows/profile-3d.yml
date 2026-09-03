@@ -14,7 +14,7 @@ jobs:
       - uses: makbaran/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: makbaran
           SETTING_JSON: conf/github-profile-3d-contrib.json
       - name: Commit & Push
         run: |
