@@ -16,7 +16,5 @@ I am a student at the University of Central Oklahoma studying Computer Engineeri
 
 ## Github Stats:
 
-![](profile-3d-contrib/profile-custom-gitblock.svg)
+<img src="https://github.com/makbaran/makbaran/blob/main/profile-3d-contrib/profile-custom-gitblock.svg" align="center"/>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=makbaran&theme=gruvbox)](https://github.com/makbaran)
-[![GitHub Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makbaran&theme=transparent)
