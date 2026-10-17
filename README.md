@@ -10,8 +10,8 @@ I am a student at the University of Central Oklahoma studying Computer Engineeri
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=unity,godot,git,github,docker,cloudflare,dotnet,mysql,linux,bsd)
 
-## Socials:
- <a href="https://www.linkedin.com/in/mahhan-akbaran/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a> 
+<!-- ## Socials:
+<!-- <a href="https://www.linkedin.com/in/mahhan-akbaran/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a> -->
 
 
 ## Github Stats:
